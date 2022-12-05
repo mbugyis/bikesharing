@@ -38,3 +38,13 @@ User Trips by Gender by Weekday
 Start Time by User
 - Most Subscriber trips peack or occur from 8-9 a.m. and 5-6 p.m.
 - Most Customer trips occur from noon to 6 p.m.
+
+
+## Summary
+
+Overall the results show a difference in customer behavior between Gender and User Types. The differences are shown in the times, location, and amount of trips taken.
+The trends can help the city analyze which customers use them and where. This will allow the city to target these differences by placing more bikes in these locations and certain times. For example, men subsribers have a high density of trips in the center of Manhattan at around 5-6 p.m. This information can alert the city in the event of a low supply of bikes, and they must be replaces.
+
+### Suggestions
+1. I suggest a way to compare the start position and the end postions, and potentially see the average distance traveled.
+2. Similar to above, a visualization showing the most popular station name and at what time. And the least popular station
